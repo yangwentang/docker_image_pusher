@@ -4,3 +4,11 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/arm64 ffdfgdfg/nps:latest
+--platform=linux/arm64 finab/bark-server:latest
+--platform=linux/arm64 gotify/server-arm64:latest
+--platform=linux/arm64 enwaiax/x-ui:latest
+--platform=linux/arm64 filebrowser/filebrowser:latest
+--platform=linux/arm64 privoce/vocechat-server:latest-arm64
+--platform=linux/arm64 traccar/traccar:latest
+--platform=linux/arm64 whyour/qinglong:2.10.13
