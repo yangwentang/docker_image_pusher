@@ -11,4 +11,3 @@
 --platform=linux/arm64 filebrowser/filebrowser:latest
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
 --platform=linux/arm64 traccar/traccar:latest
---platform=linux/arm64 whyour/qinglong:2.10.13
