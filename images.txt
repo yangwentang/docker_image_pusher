@@ -12,3 +12,4 @@
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
 --platform=linux/arm64 traccar/traccar:latest
 --platform=linux/arm64 jason5ng32/myip:latest
+--platform=linux/arm64 matrixdotorg/synapse:latest generate
