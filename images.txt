@@ -16,3 +16,4 @@
 --platform=linux/arm64 phanan/koel:latest
 --platform=linux/arm64 mysql:latest
 --platform=linux/arm64 nginx:latest
+--platform=linux/arm64 codercom/code-server
