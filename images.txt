@@ -20,3 +20,6 @@ gdy666/lucky
 mysql:latest
 nginx:latest
 codercom/code-server
+gebangfeng/dockerproxy:0.7
+dqzboy/hub:latest
+dockerdqz/mirror-hub:latest
