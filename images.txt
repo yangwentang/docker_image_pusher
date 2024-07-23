@@ -2,18 +2,21 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 whyour/qinglong:latest
---platform=linux/arm64 ffdfgdfg/nps:latest
---platform=linux/arm64 finab/bark-server:latest
---platform=linux/arm64 gotify/server-arm64:latest
---platform=linux/arm64 enwaiax/x-ui:latest
---platform=linux/arm64 filebrowser/filebrowser:latest
---platform=linux/arm64 privoce/vocechat-server:latest-arm64
---platform=linux/arm64 traccar/traccar:latest
---platform=linux/arm64 jason5ng32/myip:latest
---platform=linux/arm64 matrixdotorg/synapse:latest
---platform=linux/arm64 phanan/koel:latest
---platform=linux/arm64 mysql:latest
---platform=linux/arm64 nginx:latest
---platform=linux/arm64 codercom/code-server
+#--platform=linux/arm64 xiaoyaliu/alist
+xiaoyaliu/alist
+whyour/qinglong:latest
+whyour/qinglong:latest:2.10.13
+ffdfgdfg/nps:latest
+finab/bark-server:latest
+gotify/server-arm64:latest
+enwaiax/x-ui:latest
+filebrowser/filebrowser:latest
+privoce/vocechat-server:latest-arm64
+traccar/traccar:latest
+jason5ng32/myip:latest
+matrixdotorg/synapse:latest
+phanan/koel:latest
+gdy666/lucky
+mysql:latest
+nginx:latest
+codercom/code-server
