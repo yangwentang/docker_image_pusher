@@ -3,15 +3,15 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xiaoyaliu/alist
-whyour/qinglong:latest
-whyour/qinglong:2.10.13
+--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/arm64 whyour/qinglong:2.10.13
 --platform=linux/arm64 ffdfgdfg/nps:latest
 --platform=linux/arm64 finab/bark-server:latest
 gotify/server-arm64:latest
-enwaiax/x-ui:latest
-filebrowser/filebrowser:latest
+--platform=linux/arm64 enwaiax/x-ui:latest
+--platform=linux/arm64 filebrowser/filebrowser:latest
 privoce/vocechat-server:latest-arm64
-traccar/traccar:latest
-jason5ng32/myip:latest
-gdy666/lucky
+--platform=linux/arm64 traccar/traccar:latest
+--platform=linux/arm64 jason5ng32/myip:latest
+--platform=linux/arm64 gdy666/lucky
