@@ -16,3 +16,4 @@ privoce/vocechat-server:latest-arm64
 --platform=linux/arm64 jason5ng32/myip:latest
 --platform=linux/arm64 gdy666/lucky
 --platform=linux/arm64 adguard/adguardhome
+--platform=linux/arm64 adguard/adguardhome:edge
