@@ -6,20 +6,12 @@
 xiaoyaliu/alist
 whyour/qinglong:latest
 whyour/qinglong:2.10.13
-ffdfgdfg/nps:latest
-finab/bark-server:latest
+--platform=linux/arm64 ffdfgdfg/nps:latest-arm64
+--platform=linux/arm64 finab/bark-server:latest-arm64
 gotify/server-arm64:latest
 enwaiax/x-ui:latest
 filebrowser/filebrowser:latest
 privoce/vocechat-server:latest-arm64
 traccar/traccar:latest
 jason5ng32/myip:latest
-matrixdotorg/synapse:latest
-phanan/koel:latest
 gdy666/lucky
-mysql:latest
-nginx:latest
-codercom/code-server
-gebangfeng/dockerproxy:0.7
-dqzboy/hub:latest
-dockerdqz/mirror-hub:latest
