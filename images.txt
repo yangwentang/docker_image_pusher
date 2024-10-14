@@ -15,6 +15,5 @@ privoce/vocechat-server:latest-arm64
 --platform=linux/arm64 traccar/traccar:latest
 --platform=linux/arm64 jason5ng32/myip:latest
 --platform=linux/arm64 gdy666/lucky
---platform=linux/arm64 adguard/adguardhome
---platform=linux/arm64 adguard/adguardhome:edge
---platform=linux/arm64 adguard/adguardhome:v0.107.52
+--platform=linux/arm64 adguard/adguardhome:latest
+--platform=linux/arm64 homeassistant/home-assistant:latest
