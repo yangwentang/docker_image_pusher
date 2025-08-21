@@ -1,18 +1,16 @@
 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 whyour/qinglong:latest
---platform=linux/arm64 whyour/qinglong:2.10.13
---platform=linux/arm64 ffdfgdfg/nps:latest
---platform=linux/arm64 finab/bark-server:latest
---platform=linux/arm64 gotify/server-arm64:latest
---platform=linux/arm64 enwaiax/x-ui:latest
---platform=linux/arm64 filebrowser/filebrowser:latest
---platform=linux/arm64 privoce/vocechat-server:latest-arm64
---platform=linux/arm64 traccar/traccar:latest
---platform=linux/arm64 jason5ng32/myip:latest
---platform=linux/arm64 gdy666/lucky
---platform=linux/arm64 adguard/adguardhome:latest
---platform=linux/arm64 homeassistant/home-assistant:latest
+whyour/qinglong:latest
+ffdfgdfg/nps:latest
+finab/bark-server:latest
+gotify/server-arm64:latest
+enwaiax/x-ui:latest
+filebrowser/filebrowser:latest
+privoce/vocechat-server:latest-arm64
+traccar/traccar:latest
+jason5ng32/myip:latest
+gdy666/lucky
+adguard/adguardhome:latest
+homeassistant/home-assistant:latest
